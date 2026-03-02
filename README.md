@@ -9,7 +9,7 @@ Projeto desenvolvido para praticar lógica de programação utilizando Python.
 - Informa se o aluno foi aprovado ou reprovado
 
 ## 🛠 Tecnologias utilizadas
-- Python
+- Python 3
 
 ## 🎯 Objetivo
 Projeto criado com foco em aprendizado e desenvolvimento da base em programação para estágio na área de Tecnologia.
@@ -18,3 +18,5 @@ Projeto criado com foco em aprendizado e desenvolvimento da base em programaçã
 1. Baixe o arquivo `calculadora_media.py`
 2. Execute no Python
 3. Digite as notas quando solicitado
+4. 📎 Status
+Projeto finalizado como parte dos meus estudos iniciais em Python.
